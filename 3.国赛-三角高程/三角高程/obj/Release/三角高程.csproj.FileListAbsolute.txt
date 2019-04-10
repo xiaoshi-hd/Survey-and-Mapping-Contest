@@ -1,0 +1,9 @@
+C:\Users\xiaoshi\Desktop\国赛\3.国赛-三角高程\三角高程\bin\Release\三角高程.exe.config
+C:\Users\xiaoshi\Desktop\国赛\3.国赛-三角高程\三角高程\bin\Release\三角高程.exe
+C:\Users\xiaoshi\Desktop\国赛\3.国赛-三角高程\三角高程\bin\Release\三角高程.pdb
+C:\Users\xiaoshi\Desktop\国赛\3.国赛-三角高程\三角高程\obj\Release\三角高程.csprojResolveAssemblyReference.cache
+C:\Users\xiaoshi\Desktop\国赛\3.国赛-三角高程\三角高程\obj\Release\三角高程.Form1.resources
+C:\Users\xiaoshi\Desktop\国赛\3.国赛-三角高程\三角高程\obj\Release\三角高程.Properties.Resources.resources
+C:\Users\xiaoshi\Desktop\国赛\3.国赛-三角高程\三角高程\obj\Release\三角高程.csproj.GenerateResource.Cache
+C:\Users\xiaoshi\Desktop\国赛\3.国赛-三角高程\三角高程\obj\Release\三角高程.exe
+C:\Users\xiaoshi\Desktop\国赛\3.国赛-三角高程\三角高程\obj\Release\三角高程.pdb
