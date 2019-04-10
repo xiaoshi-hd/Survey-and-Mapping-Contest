@@ -1,0 +1,8 @@
+C:\Users\xiaoshi\Desktop\国赛\6.国赛-不规则三角网体积计算（逐点插入法)\6.国赛-不规则三角网体积计算\bin\Release\6.国赛-不规则三角网体积计算.exe.config
+C:\Users\xiaoshi\Desktop\国赛\6.国赛-不规则三角网体积计算（逐点插入法)\6.国赛-不规则三角网体积计算\bin\Release\6.国赛-不规则三角网体积计算.exe
+C:\Users\xiaoshi\Desktop\国赛\6.国赛-不规则三角网体积计算（逐点插入法)\6.国赛-不规则三角网体积计算\bin\Release\6.国赛-不规则三角网体积计算.pdb
+C:\Users\xiaoshi\Desktop\国赛\6.国赛-不规则三角网体积计算（逐点插入法)\6.国赛-不规则三角网体积计算\obj\Release\_6.国赛_不规则三角网体积计算.Form1.resources
+C:\Users\xiaoshi\Desktop\国赛\6.国赛-不规则三角网体积计算（逐点插入法)\6.国赛-不规则三角网体积计算\obj\Release\_6.国赛_不规则三角网体积计算.Properties.Resources.resources
+C:\Users\xiaoshi\Desktop\国赛\6.国赛-不规则三角网体积计算（逐点插入法)\6.国赛-不规则三角网体积计算\obj\Release\6.国赛-不规则三角网体积计算.csproj.GenerateResource.Cache
+C:\Users\xiaoshi\Desktop\国赛\6.国赛-不规则三角网体积计算（逐点插入法)\6.国赛-不规则三角网体积计算\obj\Release\6.国赛-不规则三角网体积计算.exe
+C:\Users\xiaoshi\Desktop\国赛\6.国赛-不规则三角网体积计算（逐点插入法)\6.国赛-不规则三角网体积计算\obj\Release\6.国赛-不规则三角网体积计算.pdb
