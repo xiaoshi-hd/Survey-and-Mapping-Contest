@@ -1,0 +1,8 @@
+C:\Users\xiaoshi\Desktop\国赛\1.国赛-附和导线近似平差计算\1\bin\Release\1.exe.config
+C:\Users\xiaoshi\Desktop\国赛\1.国赛-附和导线近似平差计算\1\bin\Release\1.exe
+C:\Users\xiaoshi\Desktop\国赛\1.国赛-附和导线近似平差计算\1\bin\Release\1.pdb
+C:\Users\xiaoshi\Desktop\国赛\1.国赛-附和导线近似平差计算\1\obj\Release\_1.Form1.resources
+C:\Users\xiaoshi\Desktop\国赛\1.国赛-附和导线近似平差计算\1\obj\Release\_1.Properties.Resources.resources
+C:\Users\xiaoshi\Desktop\国赛\1.国赛-附和导线近似平差计算\1\obj\Release\1.csproj.GenerateResource.Cache
+C:\Users\xiaoshi\Desktop\国赛\1.国赛-附和导线近似平差计算\1\obj\Release\1.exe
+C:\Users\xiaoshi\Desktop\国赛\1.国赛-附和导线近似平差计算\1\obj\Release\1.pdb
