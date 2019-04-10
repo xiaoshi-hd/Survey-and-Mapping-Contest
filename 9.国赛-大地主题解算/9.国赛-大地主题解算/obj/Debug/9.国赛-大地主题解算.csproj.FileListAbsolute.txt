@@ -1,0 +1,10 @@
+C:\Users\xiaoshi\Desktop\9.国赛-大地主题解算\9.国赛-大地主题解算\bin\Debug\9.国赛-大地主题解算.exe.config
+C:\Users\xiaoshi\Desktop\国赛\9.国赛-大地主题解算\9.国赛-大地主题解算\bin\Debug\9.国赛-大地主题解算.exe.config
+C:\Users\xiaoshi\Desktop\国赛\9.国赛-大地主题解算\9.国赛-大地主题解算\bin\Debug\9.国赛-大地主题解算.exe
+C:\Users\xiaoshi\Desktop\国赛\9.国赛-大地主题解算\9.国赛-大地主题解算\bin\Debug\9.国赛-大地主题解算.pdb
+C:\Users\xiaoshi\Desktop\国赛\9.国赛-大地主题解算\9.国赛-大地主题解算\obj\Debug\9.国赛-大地主题解算.csprojResolveAssemblyReference.cache
+C:\Users\xiaoshi\Desktop\国赛\9.国赛-大地主题解算\9.国赛-大地主题解算\obj\Debug\_9.国赛_大地主题解算.Form1.resources
+C:\Users\xiaoshi\Desktop\国赛\9.国赛-大地主题解算\9.国赛-大地主题解算\obj\Debug\_9.国赛_大地主题解算.Properties.Resources.resources
+C:\Users\xiaoshi\Desktop\国赛\9.国赛-大地主题解算\9.国赛-大地主题解算\obj\Debug\9.国赛-大地主题解算.csproj.GenerateResource.Cache
+C:\Users\xiaoshi\Desktop\国赛\9.国赛-大地主题解算\9.国赛-大地主题解算\obj\Debug\9.国赛-大地主题解算.exe
+C:\Users\xiaoshi\Desktop\国赛\9.国赛-大地主题解算\9.国赛-大地主题解算\obj\Debug\9.国赛-大地主题解算.pdb
