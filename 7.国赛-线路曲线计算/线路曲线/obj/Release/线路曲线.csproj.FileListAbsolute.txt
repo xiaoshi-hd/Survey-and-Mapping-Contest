@@ -1,0 +1,8 @@
+C:\Users\xiaoshi\Desktop\国赛\7.国赛-线路曲线计算\线路曲线\bin\Release\线路曲线.exe.config
+C:\Users\xiaoshi\Desktop\国赛\7.国赛-线路曲线计算\线路曲线\bin\Release\线路曲线.exe
+C:\Users\xiaoshi\Desktop\国赛\7.国赛-线路曲线计算\线路曲线\bin\Release\线路曲线.pdb
+C:\Users\xiaoshi\Desktop\国赛\7.国赛-线路曲线计算\线路曲线\obj\Release\线路曲线.Form1.resources
+C:\Users\xiaoshi\Desktop\国赛\7.国赛-线路曲线计算\线路曲线\obj\Release\线路曲线.Properties.Resources.resources
+C:\Users\xiaoshi\Desktop\国赛\7.国赛-线路曲线计算\线路曲线\obj\Release\线路曲线.csproj.GenerateResource.Cache
+C:\Users\xiaoshi\Desktop\国赛\7.国赛-线路曲线计算\线路曲线\obj\Release\线路曲线.exe
+C:\Users\xiaoshi\Desktop\国赛\7.国赛-线路曲线计算\线路曲线\obj\Release\线路曲线.pdb
