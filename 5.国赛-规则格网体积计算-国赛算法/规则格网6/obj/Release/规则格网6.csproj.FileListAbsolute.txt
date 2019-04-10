@@ -1,0 +1,9 @@
+C:\Users\xiaoshi\Desktop\5.国赛-规则格网体积计算-国赛算法\规则格网6\bin\Release\规则格网6.exe.config
+C:\Users\xiaoshi\Desktop\5.国赛-规则格网体积计算-国赛算法\规则格网6\bin\Release\规则格网6.exe
+C:\Users\xiaoshi\Desktop\5.国赛-规则格网体积计算-国赛算法\规则格网6\bin\Release\规则格网6.pdb
+C:\Users\xiaoshi\Desktop\5.国赛-规则格网体积计算-国赛算法\规则格网6\obj\Release\规则格网6.csprojResolveAssemblyReference.cache
+C:\Users\xiaoshi\Desktop\5.国赛-规则格网体积计算-国赛算法\规则格网6\obj\Release\规则格网6.Form1.resources
+C:\Users\xiaoshi\Desktop\5.国赛-规则格网体积计算-国赛算法\规则格网6\obj\Release\规则格网6.Properties.Resources.resources
+C:\Users\xiaoshi\Desktop\5.国赛-规则格网体积计算-国赛算法\规则格网6\obj\Release\规则格网6.csproj.GenerateResource.Cache
+C:\Users\xiaoshi\Desktop\5.国赛-规则格网体积计算-国赛算法\规则格网6\obj\Release\规则格网6.exe
+C:\Users\xiaoshi\Desktop\5.国赛-规则格网体积计算-国赛算法\规则格网6\obj\Release\规则格网6.pdb
