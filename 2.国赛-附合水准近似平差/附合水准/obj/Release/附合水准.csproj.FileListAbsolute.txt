@@ -1,0 +1,9 @@
+C:\Users\xiaoshi\Desktop\国赛\2.附合水准近似平差-国赛\附合水准\bin\Release\附合水准.exe.config
+C:\Users\xiaoshi\Desktop\国赛\2.附合水准近似平差-国赛\附合水准\bin\Release\附合水准.exe
+C:\Users\xiaoshi\Desktop\国赛\2.附合水准近似平差-国赛\附合水准\bin\Release\附合水准.pdb
+C:\Users\xiaoshi\Desktop\国赛\2.附合水准近似平差-国赛\附合水准\obj\Release\附合水准.Form1.resources
+C:\Users\xiaoshi\Desktop\国赛\2.附合水准近似平差-国赛\附合水准\obj\Release\附合水准.Properties.Resources.resources
+C:\Users\xiaoshi\Desktop\国赛\2.附合水准近似平差-国赛\附合水准\obj\Release\附合水准.csproj.GenerateResource.Cache
+C:\Users\xiaoshi\Desktop\国赛\2.附合水准近似平差-国赛\附合水准\obj\Release\附合水准.exe
+C:\Users\xiaoshi\Desktop\国赛\2.附合水准近似平差-国赛\附合水准\obj\Release\附合水准.pdb
+C:\Users\xiaoshi\Desktop\国赛\2.附合水准近似平差-国赛\附合水准\obj\Release\附合水准.csprojResolveAssemblyReference.cache
